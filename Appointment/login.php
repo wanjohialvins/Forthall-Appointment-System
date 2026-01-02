@@ -167,7 +167,8 @@
                     <br>
                     <label for="" class="sub-text" style="font-weight: 280;">Don't have an account&#63; </label>
                     <a href="signup.php" class="hover-link1 non-style-link">Sign Up</a>
-                    <br><br><br>
+                    <br><br>
+                    <p class="sub-text" style="font-size: 12px; text-align: center;">Powered by <a href="https://github.com/wanjohialvins" class="non-style-link" style="color: #007bff;">eragondevs</a></p>
                 </td>
             </tr>
                         

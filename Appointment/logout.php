@@ -1,4 +1,8 @@
 <?php 
+/**
+ * Logout Logic - Forthall Appointment System
+ * Designed & Developed by eragondevs
+ */
 
 	session_start();
 

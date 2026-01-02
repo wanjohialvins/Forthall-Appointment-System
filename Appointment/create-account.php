@@ -16,7 +16,11 @@
     </style>
 </head>
 <body>
-<?php
+<?php 
+/**
+ * Create Account Logic - Forthall Appointment System
+ * Designed & Developed by eragondevs
+ */
 
 
 session_start();
@@ -158,7 +162,8 @@ if($_POST){
                     <br>
                     <label for="" class="sub-text" style="font-weight: 280;">Already have an account&#63; </label>
                     <a href="login.php" class="hover-link1 non-style-link">Login</a>
-                    <br><br><br>
+                    <br><br>
+                    <p class="sub-text" style="font-size: 12px; text-align: center;">Powered by <a href="https://github.com/wanjohialvins" class="non-style-link" style="color: #007bff;">eragondevs</a></p>
                 </td>
             </tr>
 

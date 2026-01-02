@@ -1,3 +1,10 @@
+<?php
+/**
+ * Administrative Dashboard - Forthall Appointment System
+ * Designed & Developed by eragondevs
+ * Version: 2.0.0
+ */
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
